@@ -1,0 +1,76 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital@0;1&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color:rgb(240,242, 245);
+
+}
+.main{
+margin-top: 200px;
+margin-left: 250px;
+font-size: 25px;
+font-family: 'Roboto', sans-serif;
+font: weight 1px;;
+
+}
+.form{
+    width: 30%;
+    height: 60%;
+    position: absolute;
+    left: 60%;
+    bottom: 25%;
+    background: white;
+    border-radius: 10px;
+
+}
+h1{
+    color: #2C83F2;
+}
+input{
+    width: 350px;
+    height: 45px;
+    margin: 15px;
+    font-size: 17px;
+    border-radius: 4px;
+    padding: 2px;
+}
+.button{
+    width: 340px;
+    height: 40px;
+    margin-left: 20px;
+    font-size: 20px;
+    color: white;
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+    background-color: #2C83F2 ;
+    border-radius: 5px;
+    padding: 7px;    
+}
+.color{
+    padding: 5px;
+    text-align: center;
+    margin: 15px;
+    color: #2C83F2;
+    font-size: 15px;
+    font-family: 'Roboto', sans-serif;
+}
+.class{
+    text-align: center;
+    width: 200px;
+    height: 30px;
+    font-size: 17px;
+    margin-left: 80px;
+    background-color: #36A420;
+    font-family: 'Roboto', sans-serif;
+    border-radius: 5px;
+    color: white;
+    padding: 10px;
+    margin-top: 20px;
+}
+.page{
+    position: absolute;
+    left: 63%;
+    top: 79%;
+}
